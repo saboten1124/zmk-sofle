@@ -60,7 +60,7 @@ layers:
   - layer1
   - LEFT WIN
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-shift$$
